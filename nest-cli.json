@@ -27,6 +27,15 @@
       "compilerOptions": {
         "tsConfigPath": "apps/main/tsconfig.app.json"
       }
+    },
+    "video": {
+      "type": "application",
+      "root": "apps/video",
+      "entryFile": "main",
+      "sourceRoot": "apps/video/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/video/tsconfig.app.json"
+      }
     }
   }
 }
